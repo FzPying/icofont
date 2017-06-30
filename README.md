@@ -6,7 +6,7 @@ IcoFont是一个开源的项目。IcoFont是一个单一的字体，提供2105�
 
 ####使用IcoFont
 
-你可以从https://github.com/FzPying/icofont/免费下载IcoFont 允许个人或商业项目中使用它(符合法律)。
+你可以从https://github.com/FzPying/icofont/ 免费下载 IcoFont 允许个人或商业项目中使用它(符合法律)。
 
  
 
